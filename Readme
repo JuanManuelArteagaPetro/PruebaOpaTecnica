@@ -1,0 +1,14 @@
+Ejecutar Aplicacion.
+
+Antes de inicar los servicios, elige la capeta de front en la consola; lo puedes hacer  con el comando cd front.
+ahi escribes "npm i" (sin las comillas), lo que va hacer es que va a buscar todos los modulos que se incien con npm.
+
+Una vez instalado todo, haces el mismo procedimiento pero esta vez en la carpeta server. Te situas con el comando cd server en la consola.
+escribees "npm i" y ya tendrias los paquetes instalados. 
+
+
+para Ejecutar el front es con el comando npm start 
+
+para Ejecutar el Back (carpeta server) es  npm run server. 
+
+
